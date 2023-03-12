@@ -1,0 +1,4 @@
+﻿depth_top,depth_bot,soil_type,gsat,gunsat
+0,3,sand - medium dense,17,18
+3,5.5,silty clay - stiff,15,15
+5.5,10,silty clay - very stiff,16,16
